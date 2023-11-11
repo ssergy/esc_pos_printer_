@@ -86,8 +86,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "7bc0870808a6c07eb2f0d051b57ed42e78b4da98"
-      url: "https://github.com/mrsaedsadi/esc_pos_utils.git"
+      resolved-ref: e0c43cb30440eeb980d6b4e2070146d826a600cd
+      url: "https://github.com/ssergy/esc_pos_utils.git"
     source: git
     version: "1.1.0"
   fake_async:
